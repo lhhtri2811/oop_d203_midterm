@@ -1,0 +1,9 @@
+﻿  GamePlay.cpp
+  main.cpp
+D:\study\oop\project do an\1612730_1612732\Source\1612730_1612732\1612730_1612732\GamePlay.cpp(266,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  0 of 39 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  1612730_1612732.vcxproj -> D:\study\oop\project do an\1612730_1612732\Source\1612730_1612732\x64\Release\1612730_1612732.exe

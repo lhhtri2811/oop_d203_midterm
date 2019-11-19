@@ -1,0 +1,3 @@
+﻿  GamePlay.cpp
+D:\study\oop\project do an\1612730_1612732\Source\1612730_1612732\1612730_1612732\GamePlay.cpp(305,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  1612730_1612732.vcxproj -> D:\study\oop\project do an\1612730_1612732\Source\1612730_1612732\Debug\1612730_1612732.exe
